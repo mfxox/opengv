@@ -1,5 +1,6 @@
 cmake_minimum_required(VERSION 3.1.0)
 project(opengv CXX)
+set (CMAKE_CXX_STANDARD 11)
 
 set (OPENGV_VERSION_MAJOR 1)
 set (OPENGV_VERSION_MINOR 0)
